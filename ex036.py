@@ -1,3 +1,5 @@
+# A prestação mensal, não pode exceder 30% do salário ou então o empréstimo será negado.
+
 casa = float(input('Qual o valor da casa? R$'))
 salario = float(input('Qual o seu salário? R$'))
 anos = int(input('Em quantos anos você pretende pagar? '))
